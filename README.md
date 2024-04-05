@@ -1,2 +1,2 @@
 
-refer to [demo](cmd\xsvm\main.go)
+refer to [demo](cmdxsvm/main.go)
